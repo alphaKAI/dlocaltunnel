@@ -5,7 +5,7 @@ Inspired by [gotunnelme](https://github.com/NoahShen/gotunnelme)
 #Usage
 Here is sample of this library:  
 
-```D:
+```d
 import dlocaltunnel.tunnel;
 import core.thread;
 import std.stdio;
