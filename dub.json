@@ -1,0 +1,8 @@
+{
+	"name": "dlocaltunnel",
+	"description": "Client library for localtunnel in D",
+	"copyright": "Copyright © 2016, alphakai",
+  "license": "MIT",
+	"authors": ["alphakai"],
+	"dependencies": {}
+}
